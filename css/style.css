@@ -1,0 +1,44 @@
+.carim{
+  width: 1000px;
+  height: 600px;
+}
+
+.company{
+  width: 200px;
+  height: 200px;
+}
+
+.contcom{
+  margin-right: 100px;
+  margin-left: 150px;
+}
+.eco{
+  width: 250px;
+  height: 200px;
+}
+.videos{
+  margin-right: 150px;
+  margin-left: 300px;
+}
+
+.vidtex{
+  margin-right: 200px;
+  margin-left: 200px;
+}
+
+.relprod{
+  margin-left: 100px;
+}
+
+.p{
+  display: inline;
+  background-color: #ffe4c4;
+}
+
+.font{
+  font-family: "Trirong", serif;
+}
+
+.site-info{
+  background-color: #f5deb3;
+}
